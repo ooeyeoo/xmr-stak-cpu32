@@ -55,6 +55,7 @@
    { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 27 },
    { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 28 },
    { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 29 },
+   { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 30 },
   
 ],
 
@@ -128,9 +129,9 @@
  * wallet_address - Your wallet, or pool login.
  * pool_password  - Can be empty in most cases or "x".
  */
-"pool_address" : "xmr.crypto-pool.fr:8888",
-"wallet_address" : "44vP9ZP21YFMvo21fXYxwcYNiXno6hP9RPt2FYndW7GNGA2R3cCw6ipXAzuNnxJXtzhTAWabemNsVgEoiUsr8VHDBqqSdTa",
-"pool_password" : "",
+"pool_address" : "pool.sumokoin.com:4444",
+"wallet_address" : "Sumoo3VNYZxgKFueTuPH5W5SexNeui9rcBpUnmc88su9WsBRwue9WDAXPoE3waoYQeVRno8gvLRXL5cTcUEde8LfiLH8Bam5Uh1",
+"pool_password" : "x",
 
 /*
  * Network timeouts.

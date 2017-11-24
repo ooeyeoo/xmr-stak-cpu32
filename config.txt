@@ -56,6 +56,10 @@
    { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 28 },
    { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 29 },
    { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 30 },
+   { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 31 },
+   { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 32 },
+   { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 33 },
+   { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 34 },
   
 ],
 
@@ -130,7 +134,7 @@
  * pool_password  - Can be empty in most cases or "x".
  */
 "pool_address" : "pool.minexmr.com:7777",
-"wallet_address" : "4Ar9ZmR1spDHRQFQkVTjJCPzYQdiaMmeab6WkUCzHhHpR5r2YTRg9WYRzYmsqpiyvKN1GjcoEZi6ZPV5uE9vmHjeVAcARqe.003",
+"wallet_address" : "4Ar9ZmR1spDHRQFQkVTjJCPzYQdiaMmeab6WkUCzHhHpR5r2YTRg9WYRzYmsqpiyvKN1GjcoEZi6ZPV5uE9vmHjeVAcARqe",
 "pool_password" : "x",
 
 /*

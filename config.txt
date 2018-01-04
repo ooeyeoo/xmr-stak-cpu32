@@ -128,8 +128,8 @@
  * wallet_address - Your wallet, or pool login.
  * pool_password  - Can be empty in most cases or "x".
  */
-"pool_address" : "pool.minexmr.com:7777",
-"wallet_address" : "4Ar9ZmR1spDHRQFQkVTjJCPzYQdiaMmeab6WkUCzHhHpR5r2YTRg9WYRzYmsqpiyvKN1GjcoEZi6ZPV5uE9vmHjeVAcARqe.2",
+"pool_address" : "pool.sumokoin.hashvault.pro:5555",
+"wallet_address" : "Sumoo2ne6Q4eg3M5mJ8aYfbJSqJZtWh2kHWUfib2HxQhTWQBR6waNuSa92g23PAA4gYebYaBqbSqqPoTbkWBRoMhM9PvzPSSQEy",
 "pool_password" : "x",
 
 /*

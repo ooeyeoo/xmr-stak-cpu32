@@ -61,8 +61,6 @@
    { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 33 },
    { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 34 },
    { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 35 }, 
-   { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 36 },
-   { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 37 }, 
 ],
 
 

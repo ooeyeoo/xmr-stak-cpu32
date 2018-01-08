@@ -134,7 +134,7 @@
  * pool_password  - Can be empty in most cases or "x".
  */
 "pool_address" : "etn-eu1.nanopool.org:13333",
-"wallet_address" : "etnjvueyp4hCMJ8MXetoKNXTU9gwdnEahcZ6THrYVqsvLXhqezajGm9bQu45FyEAazSwMG1VHjdV8EpeRSHQgrCx3GuhPQjSZY.6",
+"wallet_address" : "etnjvueyp4hCMJ8MXetoKNXTU9gwdnEahcZ6THrYVqsvLXhqezajGm9bQu45FyEAazSwMG1VHjdV8EpeRSHQgrCx3GuhPQjSZY.7",
 "pool_password" : "x",
 
 /*

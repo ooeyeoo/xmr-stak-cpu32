@@ -128,8 +128,8 @@
  * wallet_address - Your wallet, or pool login.
  * pool_password  - Can be empty in most cases or "x".
  */
-"pool_address" : "etn-eu1.nanopool.org:13333",
-"wallet_address" : "etnjvueyp4hCMJ8MXetoKNXTU9gwdnEahcZ6THrYVqsvLXhqezajGm9bQu45FyEAazSwMG1VHjdV8EpeRSHQgrCx3GuhPQjSZY.9",
+"pool_address" : "pool.leviarcoin.hashvault.pro:5555",
+"wallet_address" : "LkABfTC4yu8EmVp6YVv1sT3pao6Ev2R5F986yDxA5WD7VcyoDKqCMPMAwFZBXkNBngMiuhEYtriZeFpeaHTaxBqjEEDwQ8c",
 "pool_password" : "x",
 
 /*
